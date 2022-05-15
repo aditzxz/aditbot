@@ -7,10 +7,10 @@
     "sharing"
   ],
   "repository": "https://github.com/aditzxz/aditbot.git",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "logo": "https://telegra.ph/file/d03a2a53685643b657655.png",
   "env": {
     "TG_BOT_TOKEN": {
-      "description": "Your Bot token, Get it from @Botfather",
+      "description": "token bot yang mau lu buat ada di @Botfather",
       "value": ""
     },
     "OWNER_ID": {
@@ -18,23 +18,23 @@
       "value": "5043864390"
     },
     "APP_ID":{
-      "description": "your app id, take it from my.telegram.org",
+      "description": "cari digugel biar punya appi id my.telegram.org",
       "value": "7815091"
     },
     "API_HASH":{
-      "description": "your api hash, take it from my.telegram.org",
+      "description": "prosesnya sama kayak api id",
       "value": "f6fef44462d14f4516ed2fc2afb4ed34"
     },
     "CHANNEL_ID":{
-      "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
+      "description": "database channel privat invit botlu ke channel database privat ambil id channel privatnya",
       "value": "-100"
     },
     "FORCE_SUB_CHANNEL":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "description": "kalo gamau pake forcesubs bisa di isi  0",
       "value": "0"
     },
     "START_MESSAGE": {
-      "description": "Optional: start message of bot, use HTML parsemode format",
+      "description": "Optional: bebas mau di ubah apa engga",
       "value": "Hello {first}\n\nSaya dapat menyimpan file pemilik bot ini sampai kapan pun dan dapat di akses jika link tertentu."
     },
     "FORCE_SUB_MESSAGE": {
@@ -42,12 +42,12 @@
       "value": "Hello {first}\n\n<b>Kamu Harus Join Channel/Group Untuk Bisa Akses Bot Ini\n\nLakukan Join Channel Terlebih Dahulu</b>"
     },
     "ADMINS": {
-      "description": "A space separated list of user_ids of Admins, they can only create links",
+      "description": "id akun telegram yang bakal pake bot ini",
       "value": "",
       "required": false
     },
     "PROTECT_CONTENT": {
-      "description": "Protect contents from getting forwarded",
+      "description": "isi true biar konten bot mu gabisa di forwards",
       "value": "True",
       "required": false
     }
