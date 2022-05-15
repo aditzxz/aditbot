@@ -5,8 +5,6 @@
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
-**Check This Tutorial Video on YouTube for any Help**<br>
-**Thanks to [info](https://t.me/viptesti) and his [chanel](https://t.me/pascolgenk) taphere**
 
 #### Deploy in your VPS
 ````bash
