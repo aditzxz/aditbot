@@ -90,8 +90,7 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("☎️ Tentangku", callback_data = "teantangku"),
-                    InlineKeyboardButton("🔒close aja", callback_data = "close")
+                    InlineKeyboardButton("💡INFOKU", callback_data = "INFOKU"),
                 ]
             ]
         )
@@ -114,7 +113,7 @@ async def not_joined(client: Client, message: Message):
     buttons = [
         [
             InlineKeyboardButton(
-                "GABUNG📌",
+                "•ɢᴀʙᴜɴɢ ᴅɪsɪɴɪ•",
                 url = client.invitelink)
         ]
     ]
@@ -122,7 +121,7 @@ async def not_joined(client: Client, message: Message):
         buttons.append(
             [
                 InlineKeyboardButton(
-                    text = 'Coba Lagi💥',
+                    text = '•ᴄᴏʙᴀ ᴜʟᴀɴɢ ʙᴏᴛ💥•',
                     url = f"https://t.me/{client.username}?start={message.command[1]}"
                 )
             ]
