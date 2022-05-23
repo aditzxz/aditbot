@@ -14,15 +14,15 @@
       "value": ""
     },
     "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
+      "description": "BOLEH LU GANTI BOLEH ENGGA",
       "value": "5043864390"
     },
     "APP_ID":{
-      "description": "cari digugel biar punya appi id my.telegram.org",
+      "description": "UDAH BENER PAKE IP ID GUA",
       "value": "7815091"
     },
     "API_HASH":{
-      "description": "prosesnya sama kayak api id",
+      "description": "UDAH BENER PAKE API HAS GUA",
       "value": "f6fef44462d14f4516ed2fc2afb4ed34"
     },
     "CHANNEL_ID":{
