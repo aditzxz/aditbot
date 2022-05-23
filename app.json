@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/aditzxz/aditbot.git",
+  "repository": "https://github.com/aditzxz/aditbot",
   "logo": "https://telegra.ph/file/d03a2a53685643b657655.png",
   "env": {
     "TG_BOT_TOKEN": {
