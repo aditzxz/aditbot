@@ -1,15 +1,8 @@
 # File-sharing-Bot
 **DEPLOY DI HEROKU TAP DIBAWAH INI**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/aditzxz/aditbot.git)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) </br>
 
-#### Deploy in your VPS
-````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
-cd File-Sharing-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
-````
+
 
 ### Admin Commands
 
