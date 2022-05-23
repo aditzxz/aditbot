@@ -1,6 +1,6 @@
 # File-sharing-Bot
 **DEPLOY DI HEROKU TAP DIBAWAH INI**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/aditzxz/aditbot.git)</br>
 
 #### Deploy in your VPS
 ````bash
