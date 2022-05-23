@@ -15,15 +15,15 @@
     },
     "OWNER_ID": {
       "description": "BOLEH LU GANTI BOLEH ENGGA",
-      "value": "5043864390"
+      "value": "1779645090"
     },
     "APP_ID":{
       "description": "UDAH BENER PAKE IP ID GUA",
-      "value": "7815091"
+      "value": "11580323"
     },
     "API_HASH":{
       "description": "UDAH BENER PAKE API HAS GUA",
-      "value": "f6fef44462d14f4516ed2fc2afb4ed34"
+      "value": "cfb374745656511e0f24bb0b3f02c505"
     },
     "CHANNEL_ID":{
       "description": "database channel privat invit botlu ke channel database privat ambil id channel privatnya",
