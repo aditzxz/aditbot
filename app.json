@@ -35,15 +35,15 @@
     },
     "START_MESSAGE": {
       "description": "Optional: bebas mau di ubah apa engga",
-      "value": "Hello {first}\n\nSaya dapat menyimpan file pemilik bot ini sampai kapan pun dan dapat di akses jika link tertentu."
+      "value": "selamat membaca {first}\n\n Tersedia Group Vip Berbayar Jika Berminat \n\nHubungi Admin : @oliviaxyx."
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>Kamu Harus klik tombol bergabung dibawah ini \n\n setelah bergabung kamu klik coba lagi\n\nsilahkan klik gabung disini/b>"
+      "value": "Welcome {first}\n\n<b>Kamu Harus klik tombol bergabung dibawah ini \n\n setelah bergabung kamu klik coba lagi\n\nsilahkan klik gabung disini/b>"
     },
     "ADMINS": {
       "description": "id akun telegram yang bakal pake bot ini",
-      "value": "",
+      "value": "1042983244  1903764708  1982483266  2022968287",
       "required": false
     },
     "PROTECT_CONTENT": {
