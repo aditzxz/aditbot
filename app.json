@@ -39,7 +39,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Welcome {first}\n\n<b>Kamu Harus klik tombol bergabung dibawah ini \n\n setelah bergabung kamu klik coba lagi\n\nsilahkan klik gabung disini/b>"
+      "value": "Welcome {first}\n\n<b>Kamu Harus klik tombol bergabung dibawah ini \n\n setelah bergabung kamu klik coba lagi\n\nselamat menonton video/b>"
     },
     "ADMINS": {
       "description": "id akun telegram yang bakal pake bot ini",
